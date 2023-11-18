@@ -19,12 +19,11 @@ body {
   height: 150px;
   text-align: center;
 }
-#animate img{
+#animate img {
   height: 120px;
   width: 120px;
 }
 #second-section {
-  height: 190px;
   margin-top: 55px;
   padding: 20px 60px;
 }
@@ -57,7 +56,7 @@ body {
   width: 150px;
   margin-left: 50px;
 }
-#bn button a{
+#bn button a {
   text-decoration: none;
   color: black;
 }
@@ -66,8 +65,8 @@ body {
   border: 3px solid rgb(255, 255, 255);
   color: white;
 }
-#bn button a:hover{
-    color: white;
+#bn button a:hover {
+  color: white;
 }
 #contact {
   font-size: 18px;
@@ -97,4 +96,20 @@ body {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
+}
+
+@media (max-width: 768px) {
+  #left-side,
+  #right-side {
+    width: 100%;
+    text-align: center; 
+  }
+
+  #right-side {
+    margin-top: 20px;
+    position: relative; 
+  }
+  #lottie {
+   display: none;
+  }
 }
