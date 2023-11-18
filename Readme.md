@@ -33,7 +33,7 @@ Slow websites can drive away users. I optimize your web applications for speed, 
 
 2. **Contact Me:**
    - Email: [sikanderayesha46@gmail.com](mailto:sikanderayesha46@gmail.com)
-   - LinkedIn: [www.linkedin.com/in/ayesha-sikander-016790247](www.linkedin.com/in/ayesha-sikander-016790247)
+   - LinkedIn: [https://www.linkedin.com/in/ayesha-sikander-016790247/](https://www.linkedin.com/in/ayesha-sikander-016790247/)
    - Website: [https://amarylliss.netlify.app/](https://amarylliss.netlify.app/)
 
 ## Portfolio
